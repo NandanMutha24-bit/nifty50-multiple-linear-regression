@@ -35,7 +35,7 @@ The project followed these steps:
 
 ## Results
 
-The model achieved an **R² score of approximately 0.09**.
+The model achieved a trainng **R² score of approximately 0.09**.
 
 This means that the fitted model explained approximately 9% of the variation in historical NIFTY 50 monthly returns within the evaluated dataset.
 
